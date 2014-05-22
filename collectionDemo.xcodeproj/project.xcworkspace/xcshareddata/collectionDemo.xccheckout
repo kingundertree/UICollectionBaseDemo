@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>507B904E-0229-4641-B1A4-306B8611A3C9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>collectionDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C1B2F48B-E9B7-4CB6-93EA-18EC243264A8</key>
+		<string>ssh://git.corp.anjuke.com/shanxu_h10/UICollectionProj</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>collectionDemo/collectionDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C1B2F48B-E9B7-4CB6-93EA-18EC243264A8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://git.corp.anjuke.com/shanxu_h10/UICollectionProj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C1B2F48B-E9B7-4CB6-93EA-18EC243264A8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C1B2F48B-E9B7-4CB6-93EA-18EC243264A8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UICollectionProj</string>
+		</dict>
+	</array>
+</dict>
+</plist>
